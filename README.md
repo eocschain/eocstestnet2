@@ -16,7 +16,7 @@ To participate as block producer please contact us in <a target="_blank" href="h
 
 # Howto Install EOCS node:  
   
-git clone https://github.com/eocschain/eocs.git 
+git clone https://github.com/eocschain/eocs.git  
 cd eocs  
 git submodule update --init --recursive
 
